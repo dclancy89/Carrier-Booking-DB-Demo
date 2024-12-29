@@ -30,7 +30,7 @@ CREATE TABLE appointment (
 
 INSERT INTO dge_user (id, name, type) VALUES (
     1,
-    'DGE Farms',
+    'Smith Farms',
     'customer'
 );
 
@@ -65,7 +65,7 @@ INSERT INTO location (id, user_id, address, city, state, latitude, longitude) VA
 INSERT INTO location (id, user_id, address, city, state, latitude, longitude) VALUES (
     2,
     2,
-    '820 N West St',
+    '818 N West St',
     'Crown Point',
     'Indiana',
     41.4271059,
